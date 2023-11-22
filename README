@@ -1,0 +1,6 @@
+An introduction to Python using VisualStudio Code
+
+Tasks:
+  1. Open helloworld.py and see if you can work out what will happen when you run the program
+  2. Change the text to say hello to you rather than the world
+  3. Add a new line of code to say hello to both you and your friend
